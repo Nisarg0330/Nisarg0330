@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">A passionate computer programming student from Sheridan College</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg0330&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg0330" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **nisargpatel0330@gmail.com**
